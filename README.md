@@ -8,7 +8,7 @@
   <img src="https://github.com/your-username/your-repo/blob/main/banner.png" />
 </p>
 
-# Hi there, I'm [Ashwin] 👋
+# Hi there, I'm Ashwin 👋
 🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌏 Open Source Contributor
 
 ## 🚀 Skills & Technologies
