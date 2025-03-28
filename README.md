@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="WhatsApp Image 2024-07-18 at 8.13.33 PM.jpg" 
+    alt="Typing SVG" />
 </p>
 
 <p align="center">
