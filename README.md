@@ -1,30 +1,35 @@
-<h1 align="center">Ashwin</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/Ashwin-Profile/blob/main/banner.png" />
+</p>
 
-### 📌 *About Me*
-json
-{
-  "name": "Ashwin",
-  "role": "Full Stack Developer",
-  "code": ["JavaScript", "TypeScript", "Python"],
-  "tools": ["React", "Node.js", "MongoDB", "Express"],
-  "hobbies": ["Coding", "Building creative applications", "Contributing to Open Source"]
-}
-🚀 Skills & Technologies
-🖥️ Frontend Development
+# Hi there, I'm Ashwin 👋  
+🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌏 Open Source Contributor  
 
-🔧 Backend Development
+**_"Building seamless experiences, bridging front-end beauty with back-end power."_**  
 
-☁️ Database & Cloud
+## 🚀 Skills & Technologies
 
-⚒️ Tools & Platforms
+### Frontend Development  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashw-in2006&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashw-in2006&layout=compact&theme=radical" height="150"/> </p>
-📬 Let's Connect!
-<p align="center"> <a href="mailto:Ashwin@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/Ashwin rajamurugan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/rameshkrishnan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://github.com/rameshkrishnan-s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p> 
+### Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+
+### Database & Tools  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-Profile&show_icons=true&theme=dark)  
+
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashwin-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://yourwebsite.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashwin-profile)  
