@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://your-image-url.com/blue-wave.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ashw-in2006/your-repo/main/blue-wave.png" width="100%" />
 </p>
+
 
 <h1 align="center" style="color:#36BCF7;">Ashwin</h1>
 <p align="center"><i>🌟 <b>"Building seamless experiences, bridging front-end beauty with back-end power."</b> 🌟</i></p>
