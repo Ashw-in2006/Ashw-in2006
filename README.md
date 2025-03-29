@@ -1,35 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Ashwin-Profile/blob/main/banner.png" />
 </p>
 
-# Hi there, I'm Ashwin 👋  
-🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌏 Open Source Contributor  
+<h1 align="center">Ashwin Rajamurugan</h1>
+<p align="center">
+  <b>Welcome to my GitHub Profile! 👋</b>  
+</p>
+<p align="center">
+  🚀 <b>Full Stack Developer</b> | 🇮🇳 India  
+</p>
 
-**_"Building seamless experiences, bridging front-end beauty with back-end power."_**  
+<p align="center">
+  <a href="https://github.com/Ashwin-Profile?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ashwin-Profile?label=FOLLOWERS&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashwin-rajamurugan-842aa9289/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Ashwin-2006">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/rajaashwin2006">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/rajaashwin2006">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Skills & Technologies
-
-### Frontend Development  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)  
-
-### Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-
-### Database & Tools  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-Profile&show_icons=true&theme=dark)  
-
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashwin-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://yourwebsite.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashwin-profile)  
