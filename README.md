@@ -1,4 +1,9 @@
-<h1 align="center">🟦 Ashwin</h1>
+<h1 align="center">🔵 𝓐𝓼𝓱𝔀𝓲𝓷</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ashwin-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 <p align="center"><i>🌟 <b>"Building seamless experiences, bridging front-end beauty with back-end power."</b> 🌟</i></p>
 
