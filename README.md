@@ -1,18 +1,14 @@
-<h1 align="center"> ASHWIN </h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Ashwin-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://your-image-url.com/blue-wave.png" width="100%" />
 </p>
 
-
+<h1 align="center" style="color:#36BCF7;">Ashwin</h1>
 <p align="center"><i>🌟 <b>"Building seamless experiences, bridging front-end beauty with back-end power."</b> 🌟</i></p>
 
 ---
 
 <p align="center"><b>🌟 Welcome to my GitHub Profile! 👋🌟</b></p>
-<p align="center">
-  🚀 <b>Full Stack Developer</b> | 🇮🇳 India  
-</p>
+<p align="center">🚀 <b>Full Stack Developer</b> | 🇮🇳 India</p>
 
 <p align="center">
   <a href="https://github.com/Ashw-in2006?tab=followers">
@@ -91,4 +87,8 @@
   <a href="https://www.codechef.com/users/rajaashwin2006">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://your-image-url.com/blue-wave.png" width="100%" />
 </p>
