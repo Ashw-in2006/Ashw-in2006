@@ -2,7 +2,7 @@
   <img src="https://github.com/Ashwin-Profile/blob/main/banner.png" />
 </p>
 
-<h1 align="center">Ashwin Rajamurugan</h1>
+<h1 align="center">Ashwin </h1>
 <p align="center">
   <b>Welcome to my GitHub Profile! 👋</b>  
 </p>
