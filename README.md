@@ -1,5 +1,3 @@
-
-
 <h1 align="center" style="color:#36BCF7;">Ashwin</h1>
 <p align="center"><i>🌟 <b> Building seamless experiences, bridging front-end beauty with back-end power </b> 🌟</i></p>
 
@@ -32,58 +30,67 @@
 
 ### 🖥️ Frontend Development  
 🌟 Crafting **responsive** and **interactive** user interfaces using:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
 ---
 
 ### ⚙️ Backend Development  
 🛠️ Powering applications with scalable and efficient backends using:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 
 ---
 
 ### ☁️ Database & Cloud  
 💾 Managing **structured & unstructured** data with:  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-🚀 Deploying projects on:  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+☁️ Deploying applications with:  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ### 🛠 Tools & Platforms  
-🔧 Enhancing development workflow with:  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+🔧 Enhancing productivity and code quality with:  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashw-in2006&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashw-in2006&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashw-in2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ashw-in2006&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashw-in2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="60%" />
 </p>
 
 ---
 
-## 🔗 Let's Connect!  
+## 🏆 GitHub Trophies  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashwin-rajamurugan-842aa9289">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/Ashwin-2006">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/rajaashwin2006">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/rajaashwin2006">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashw-in2006&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=Ashw-in2006&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=Ashw-in2006&icon=0&color=0" />
+  </a>
+</p>
