@@ -24,6 +24,27 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/ashwin076474">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ashwinamourlee">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ashwinr">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/rajaashwin2006">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://x.com/@Ashwin0602">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:rajaashwin2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Skills & Technologies  
