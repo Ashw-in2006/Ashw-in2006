@@ -120,16 +120,40 @@
 
 ##  Let's Connect!  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashwin-rajamurugan-842aa9289">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  
+  <a href="https://www.linkedin.com/in/ashwin-rajamurugan-842aa9289/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/Ashwin-2006">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/rajaashwin2006">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/rajaashwin2006">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://discord.gg/ashwin076474">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ashwinamourlee">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ashwinr">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/rajaashwin2006">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://x.com/@Ashwin0602">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:rajaashwin2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
