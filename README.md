@@ -10,7 +10,7 @@
   <a href="https://github.com/Ashw-in2006?tab=followers">
     <img src="https://img.shields.io/github/followers/Ashw-in2006?label=FOLLOWERS&style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/ashwin-rajamurugan-842aa9289/">
+  <a href="https://www.linkedin.com/in/ashwin-r-842aa9289/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnHOv3DjSSBiWxuPFkFe0HA%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/Ashwin-2006">
@@ -31,7 +31,7 @@
   <a href="https://instagram.com/ashwinamourlee">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ashwinr">
+  <a href="https://www.linkedin.com/in/ashwin-r-842aa9289/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnHOv3DjSSBiWxuPFkFe0HA%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://pinterest.com/rajaashwin2006">
