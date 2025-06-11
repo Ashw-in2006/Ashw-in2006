@@ -152,6 +152,6 @@
 
 ---
 
-<p align="center"> <a href="https://youtube.com/@ashwin8149?si=5bS6ANla9ObtmQNS"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /> </a> </p> <p align="center"><i>🎬 "Fuel your curiosity, spark your creativity, and never stop building." 🔥</i></p> <p align="center"><b>📢 Subscribe for tech content, creative projects, and exciting tutorials!</b></p>
+<p align="center"> <a href="https://www.youtube.com/@Ashwin-o1g"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /> </a> </p> <p align="center"><i>🎬 "Fuel your curiosity, spark your creativity, and never stop building." 🔥</i></p> <p align="center"><b>📢 Subscribe for tech content, creative projects, and exciting tutorials!</b></p>
 
 ---
