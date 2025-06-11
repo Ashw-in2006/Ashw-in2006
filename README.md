@@ -28,7 +28,10 @@
   <a href="https://discord.gg/ashwin076474">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ashwinamourlee">
+  <a href="https://www.instagram.com/ashwins_lore_and_lies?igsh=bWprcG5wd2I4NjNv">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/_chamber_of_creativity_/profilecard/?igsh=MTYwa2R1dGlzYTNxbA==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ashwin-r-842aa9289/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnHOv3DjSSBiWxuPFkFe0HA%3D%3D">
