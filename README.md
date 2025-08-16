@@ -1,9 +1,9 @@
 <h1 align="center" style="color:#36BCF7;">Ashwin</h1>
-<p align="center"><i>🌟 <b> Building seamless experiences, bridging front-end beauty with back-end power </b> 🌟</i></p>
+<p align="center"><i> <b> Crafting smart solutions ⚡ where Data 📊 meets Cloud ☁️, AI/ML 🤖 powers logic, and Full Stack 💻 drives impact. </b> </i></p>
 
 ---
 
-<p align="center"><b>🌟 Welcome to my GitHub Profile! 👋🌟</b></p>
+
 <p align="center">🚀 <b>Full Stack Developer</b> | 🇮🇳 India</p>
 
 <p align="center">
